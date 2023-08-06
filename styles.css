@@ -24,11 +24,10 @@
     position: fixed;
     bottom: 50px;
     font-size: 20px;
-    background-color: var(--green-teal);
-    color: var(--persian-blue);
+    color: var(--dark-gray-blue);
 }
 .attribution a {
-    color: var(--persian-blue);
+    color: var(--dark-gray-blue);
 }
 body {
     height: 100vh;
